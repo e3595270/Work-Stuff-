@@ -2,7 +2,7 @@
 
 ## Names of Team Members:
 1.Brandon Williams
-2.Sanjuana Sarai
+2.Sanjuana Salazar Morales
 3. 
 4. 
 
@@ -18,7 +18,7 @@ Idea 2: Student Study Club
 
 Idea 3: ADA
 
-Idea 4:
+Idea 4: Environmental Awareness
 
 Idea 5:
 
