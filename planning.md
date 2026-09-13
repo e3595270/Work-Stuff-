@@ -39,3 +39,9 @@ Project Timeline | Identify the project timeline | We will plan and gather infor
 
 ## Wireframe
 Sketch the wireframe for the home page below:
+
+
+## Site Map 
+Sketch of the Site Map: 
+<img width="1489" height="1098" alt="site_map" src="https://github.com/user-attachments/assets/35909587-77a6-4a13-b70c-9c5a23b7c8f1" />
+
